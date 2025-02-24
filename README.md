@@ -1,6 +1,6 @@
 # Iris-Phool
 
-bash
+#Print
    '''
       print("HELLO WORLD!")
    '''
