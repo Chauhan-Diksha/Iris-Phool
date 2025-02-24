@@ -1,7 +1,8 @@
 # Iris-Phool
 
 # Print
-   '''
-      print("HELLO WORLD!")
-   '''
+
+'''python
+   print("HELLO WORLD!")
+'''
    
